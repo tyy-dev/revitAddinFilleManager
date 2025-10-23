@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="../TestingAddInFileManager/TestingAddInFileManager.csproj" />
+  <Project Path="../TestingAddInFileManager.csproj" />
   <Project Path="RevitAddinFilleManager.csproj" />
 </Solution>
+
